@@ -65,7 +65,7 @@ export default function Dashboard() {
           </div>
           <div className="col-md-4 col-lg-2 d-grid">
             <button className="btn btn-primary px-4 py-2 fw-semibold addBtn">
-              ➕ Add Task
+              ✙ Add Task
             </button>
           </div>
           <div className="col-12 d-flex align-items-center">
